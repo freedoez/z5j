@@ -1,5 +1,6 @@
 {
   "newFileLocation": "current",
   "useMarkdownLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": true
 }
