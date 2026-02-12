@@ -1,3 +1,6 @@
 {
-  "baseFontSize": 21
+  "baseFontSize": 21,
+  "enabledCssSnippets": [
+    "normal_h2"
+  ]
 }
