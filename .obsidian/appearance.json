@@ -1,6 +1,7 @@
 {
   "baseFontSize": 21,
   "enabledCssSnippets": [
-    "normal_h2"
+    "normal_h2",
+    "small-note"
   ]
 }
